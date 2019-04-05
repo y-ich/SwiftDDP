@@ -1,3 +1,4 @@
 github "krzyzanowskim/CryptoSwift"
-github "tidwall/SwiftWebSocket"
+#github "tidwall/SwiftWebSocket"
+github "starxor/SwiftWebSocket" "feature/migrate_swift_5_0"
 github "DaveWoodCom/XCGLogger"
