@@ -25,7 +25,7 @@ import Foundation
 // {"$escape": THING}                   // Escaped things that might otherwise look like EJSON types
 // {"$type": TYPENAME, "$value": VALUE} // User specified types
 
-final class EJSON: NSObject {
+final public class EJSON: NSObject {
     
     /**
     Determines whether a given key is an eJSON key
